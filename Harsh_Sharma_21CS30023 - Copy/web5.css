@@ -1,0 +1,127 @@
+body{
+    background-color: red;
+    background-image: url("images/back19.jpg");
+    background-attachment: fixed;
+    background-size: cover; 
+    opacity: 0.91;
+    background-repeat: no-repeat;  
+}
+.heading{
+    text-align: center;
+    font-size: 92px;
+    color: rgba(240, 0, 67, 0.4);
+    background-image: url("images/back3.jpg");
+    background-size: 47% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.p1{
+    font-size :40px;
+    color:rgba(237, 0, 186, 0.6);
+    background-image: url("images/back\ 4.jpg" );
+    background-position:left ;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.indent{
+    font-size: 25px;
+    color: slateblue;
+    background-image: url("images/back3.jpg");
+    background-position: 3% 2%;
+    background-size: 18% 100%;
+    background-repeat: no-repeat ;
+}
+.maintable{
+    font-size: 18px;
+    color: rgb(216, 0, 0);
+    background-image: url(images/back9.jpg);
+    box-shadow: khaki;
+    
+}
+.indent2{
+    font-size: 25px;
+    color: slateblue;
+    background-image: url("images/back3.jpg");
+    background-position: 3% 2%;
+    background-size: 27% 100%;
+    background-repeat: no-repeat ;
+}
+.tcontent{
+    color:rgb(184, 0, 114);
+    font-size: 20px;
+}
+.maintable1{
+    font-size: 18px;
+    color:mediumorchid;
+    background-image: url(images/backtech.jpg);
+    box-shadow: khaki;
+    background-size: contain;
+    
+}
+.tcontent1{
+    color:rgb(0, 163, 184);
+    font-size: 20px;
+}
+.p2{
+    font-size :40px;
+    color:rgba(237, 0, 186, 0.6);
+    background-image: url("images/back\ 4.jpg" );
+    background-position:left ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: justify;
+}
+.paragraph1{
+    font-size: 22;
+    color:black;
+    background-image: url("images/iitkgp2.jpg");
+    background-size:800px 300px;
+    opacity: 0.9;
+    text-shadow: blue;
+    background-color: blue;
+}
+.paragraph2{
+    font-size: 18;
+    color:blue;
+}
+.heading1{
+    text-align: center;
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.808);
+    background-image: url("images/back3.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.paragraph3{
+    font-size: 22px;
+    color:darkblue;
+    background-color:mediumslateblue;
+}
+.topbar{
+    background-color: rgb(55, 67, 134);
+    background-size:50% 20% ;
+    font-size: 24px;
+    color: yellow;
+    height: 28px;
+    }
+.back{
+    background:whitesmoke;
+    font-family:serif,fantasy, copperplate;
+}
+#ul1{
+    background-image: url("images/back8.jpg");
+    background-size: 45% 100%;
+    background-repeat: no-repeat;
+}
+.p3{
+    font-size: 30;
+    color:red ;
+}
+.p4{
+    font-size: 28;
+    color:rgb(0, 0, 0);
+    /*background-color: linen;*/
+    opacity: 0.8;
+}

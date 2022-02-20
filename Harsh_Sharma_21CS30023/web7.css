@@ -1,0 +1,256 @@
+body{
+    background-image: url(images/back12.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#mainh{
+    height: 30px;
+    position: fixed;
+    background-color: chartreuse;
+    width: 1350px;
+    z-index: 1;
+}
+#Heading{
+    height: 300px;
+    width=900px;
+    background-color: burlywood;
+    opacity: 0.8;
+    z-index: 2;
+}
+#content{
+    height: 2600px;
+    width: 887px;
+    background-color: blue;
+    opacity: 0.9;
+    display: inline-block;
+}
+#navigation{
+    height: 500px;
+    width:450px;
+    box-sizing: border-box;
+    padding: 20px 5px;
+    background-color: brown;
+    display: inline-block;
+    position: fixed;
+    right: 5px;
+    top: 150px;
+    opacity: 0.9;
+    transition-duration: 1s;
+}
+.heading1{
+    width: auto;
+    height: 80px;
+    font-size: 100px;
+    text-shadow: 10px 10px 5px black;
+    color: yellow;
+    border: 2px solid red;
+    position: relative;
+    left: 300px;
+    top: 80px;
+    display: inline;
+    transition-duration: 1s;
+}
+#img1{
+    height: 120px;
+    width: 100px;
+    border: 2px solid red;
+    position: relative;
+    top: 100px;
+    left: 300px;
+}
+#ul1{
+    list-style: none;
+    line-height: 60px;
+    color: rgb(8, 228, 0);
+    font-size: 40px;
+}
+.maintable{
+    font-size: 18px;
+    color: rgb(216, 0, 0);
+    background-image: url(images/back9.jpg);
+    box-shadow: khaki;
+    
+}
+.tcontent{
+    color:rgb(184, 0, 114);
+    font-size: 20px;
+}
+caption{
+    font-size: 35px;
+    color: brown;
+    background-color: cadetblue;
+    transition-duration: 1s;
+}
+#pi{
+
+}
+/*#img2{
+    float: right;
+    position: relative;
+    top: 0px;
+    right: 40px;
+}*/
+.maintable1{
+    font-size: 18px;
+    color:mediumorchid;
+    background-image: url(images/backtech.jpg);
+    box-shadow: khaki;
+    background-size: contain;
+    
+}
+.tcontent1{
+    color:rgb(0, 163, 184);
+    font-size: 20px;
+}
+.heading2{
+    font-size: 54px;
+    height: 70px;
+    color: crimson;
+    text-shadow: 8px 6px 6px rgb(8, 10, 4);
+    background-color: rgb(131, 241, 227);
+    transition-duration: 1s;
+}
+.box1{
+    height: 50px;
+    width: auto;
+    background-color: yellowgreen;
+    display: inline-block;
+    font-size: 24px;
+    vertical-align: middle;
+    color: rgb(3, 3, 3);
+    transition-duration: 1s;
+}
+.box2{
+    height: 50px;
+    width: auto;
+    background-color: rgb(187, 31, 109);
+    display: inline-block;
+    font-size: 24px;
+    vertical-align: middle;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 34px;
+    right: 24px;
+    transition-duration: 1s;
+}
+
+.box3{
+    height: 50px;
+    width: auto;
+    background-color: rgb(205, 107, 50);
+    display: inline-block;
+    font-size: 24px;
+    vertical-align: middle;
+    color: rgb(8, 7, 6);
+    position: relative;
+    top: 66px;
+    right: 40px;
+    transition-duration: 1s;
+}
+
+.box4{
+    height: 50px;
+    width: auto;
+    background-color: rgb(101, 74, 117);
+    display: inline-block;
+    font-size: 24px;
+    vertical-align: middle;
+    color: rgb(8, 7, 7);
+    position: relative;
+    top: 98px;
+    right: 60px;
+    transition-duration: 1s;
+}
+
+.box5{
+    height: 50px;
+    width: auto;
+    background-color: rgb(179, 84, 84);
+    display: inline-block;
+    font-size: 24px;
+    vertical-align: middle;
+    color: rgb(3, 3, 3);
+    position: relative;
+    top: 84px;
+    left: 700px;
+    transition-duration: 1s;
+}
+.box1:hover{
+    height: 65px;
+    background-color: yellow;
+}
+.box2:hover{
+    height: 65px;
+    background-color: yellow;
+}
+.box3:hover{
+    height: 65px;
+    background-color: yellow;
+}
+.box4:hover{
+    height: 65px;
+    background-color: yellow;
+}
+.box5:hover{
+    height: 65px;
+    background-color: yellow;
+}
+#navigation:hover{
+    width:500px;
+    height:650px;
+}
+#skill{
+    background-color: rgb(90, 158, 175);
+    height: 300px;
+}
+#futureplans{
+    background-color: wheat;
+    height: 240px;
+}
+.heading2:hover{
+      
+      height: 130px;
+      background-color: slateblue;
+}
+caption:hover{
+    background-color: seagreen;
+}
+.heading1:hover{
+background-color: violet;
+height: 120px;
+width:250px;
+}
+/*.heading3{
+    height: 80px;
+    font-size: 100px;
+    text-shadow: 10px 10px 5px black;
+    color: yellow;
+    position: relative;
+    left: 300px;
+    top: 80px;
+    transition-duration: 1s;
+    background-color:turquoise;
+}*/
+.p3{
+    font-size: 30;
+    color:red ;
+}
+.p4{
+    font-size: 28;
+    color:rgb(0, 0, 0);
+    /*background-color: linen;*/
+    opacity: 0.8;
+}
+#ul3{
+    list-style-type: none;
+}
+#ul3{
+    background-color: tomato;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: yellowgreen;
+}

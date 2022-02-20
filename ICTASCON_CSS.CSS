@@ -1,0 +1,9 @@
+body{background-image:url("https://th.bing.com/th/id/OIP.TO9HLWawghzKg5uzwpDDsAHaE4?pid=ImgDet&rs=1");
+background-repeat: no repeat;
+background-size: cover;
+}
+
+.container{
+background-color: pink;
+box-shadow:3px 4px 7px ,black
+}
